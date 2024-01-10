@@ -1,6 +1,28 @@
 body {
     margin: 0;
     padding: 0;
+    position: relative;
 }
 
+<<<<<<< HEAD
 head 
+=======
+/* head { */
+/*      */
+/* } */
+
+.container{
+    
+}
+
+.Modeling{
+    background-color: #F5F3EF;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 900px;
+    width: 413px;
+}
+>>>>>>> a2e43a3242963a5a109cd1291063ae69c6296e9a
