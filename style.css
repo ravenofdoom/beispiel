@@ -9,12 +9,12 @@ head
 /*      */
 /* } */
 
-.container{
-    position: relative;
 .container {
+    position: relative;
+.container 
 }
 
-.Modeling {
+.Modeling, .Interior {
   background-color: #f5f3ef;
   position: relative;
   display: flex;
