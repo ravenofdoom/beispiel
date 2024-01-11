@@ -1,21 +1,48 @@
 body {
   margin: 0;
   padding: 0;
-  position: relative;
+  /* NEW */
+  background-color: rgb(87, 85, 85);
 }
 
 
-.container {
-    position: relative;
+li {
+  list-style: none;
+  display: inline;
 }
 
-.Modeling, .Interior, .Exterior, .Furniture {
-  background-color: #f5f3ef;
-  position: relative;
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+nav {
+  width: 100%;
+  background-color: black;
   display: flex;
   justify-content: center;
-  align-items: center;
-  margin: 0;
+  opacity: 0.3;
+}
+/* NEW */
+
+.container {
+  display: flex;
+  margin: 0 50px 0 50px;
+}
+/* NEW */
+
+.Modeling,
+.Interior,
+.Exterior,
+.Furniture {
+  background-color: #f5f3ef;
+  text-align: center;
+  padding-top: 50px;
   height: 900px;
   width: 413px;
+}
+/* NEW */
+h6 {
+  color: orangered;
 }
