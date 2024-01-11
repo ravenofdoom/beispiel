@@ -5,6 +5,9 @@ body {
   background-color: rgb(87, 85, 85);
 }
 
+i {
+  color: white;
+}
 
 li {
   list-style: none;
