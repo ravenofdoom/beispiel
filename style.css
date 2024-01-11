@@ -9,7 +9,7 @@ body {
     position: relative;
 }
 
-.Modeling, .Interior {
+.Modeling, .Interior, .Exterior, .Furniture {
   background-color: #f5f3ef;
   position: relative;
   display: flex;
